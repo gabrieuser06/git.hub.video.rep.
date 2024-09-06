@@ -11,7 +11,7 @@ Original file line number	Diff line number	Diff line change
 
 <body>
     <header>ALURAFLIX</header>
-    <header>GUIMINAMFLIX</header>
+    <header>LIX</header>
 
     <section class="chamada">
         <div class="chamada-texto">
